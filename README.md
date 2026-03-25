@@ -1,25 +1,5 @@
-# 📊 Estudos em R — Curso da RSG Brazil
+📁 Este repositório reúne códigos desenvolvidos utilizando a linguagem R ao longo dos meus estudos.
 
-Este repositório contém as *anotações* e *códigos de prática* que desenvolvi durante minha participação em um *curso introdutório de R* promovido pela *RSG Brazil (R-Ladies São Paulo)*.
+Aqui estão projetos, exercícios e análises que demonstram minha evolução na manipulação, tratamento e visualização de dados, além da aplicação de conceitos estatísticos.
 
-O conteúdo é voltado especialmente para quem está iniciando no universo da linguagem R aplicada à ciência de dados, estatística e análise.
-
-
-## 💡 Sobre o Curso
-
-A *RSG Brazil* é uma iniciativa que busca capacitar mulheres na área de bioinformática e ciência de dados, com foco em diversidade e inclusão. O curso foi ofertado online e gratuito, com aulas teóricas e práticas sobre os fundamentos do R.
-
-
-## 🧠 Conteúdos Abordados
-
-Durante o curso, estudei os seguintes tópicos introdutórios:
--  Introdução à linguagem R e RStudio
--  Operadores lógicos e aritméticos
--  Funções básicas
--  Manipulação e visualização de dados com funções do base
-
-## 🎯 Objetivos do Repositório
-
-- Registrar as anotações e práticas do curso
-- Ter uma base de consulta para projetos futuros com R
-- Compartilhar o conteúdo com outras pessoas iniciantes
+O objetivo é consolidar conhecimento em análise de dados com R, desenvolver habilidades analíticas e construir soluções orientadas a dados, com foco em aprendizado contínuo e boas práticas.
